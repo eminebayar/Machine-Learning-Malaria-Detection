@@ -1,3 +1,4 @@
 # Machine Learning - Malaria-Detection
+The objective of this work is to build a robust ML Model to detect Malaria disease by processing blood cell images.
 
 The [executive summary](https://github.com/eminebayar/Machine-Learning-Malaria-Detection/blob/main/Executive_Summary.pdf) explains the problem, my solution to it and next steps to a non-technical audience. The [technical report](https://github.com/eminebayar/Machine-Learning-Malaria-Detection/blob/main/Technical_Report.pdf) explains what the code does in technical details to an audience with ML background. I’ve also added [my presentation](https://github.com/eminebayar/Machine-Learning-Malaria-Detection/blob/main/Presentation.pdf) where the goal was to present the whole work in 5 minutes. Finally, you can check [the code](https://github.com/eminebayar/Machine-Learning-Malaria-Detection/blob/main/Code.ipynb).
